@@ -1,0 +1,7 @@
+
+98255412 m.xochn@gmail.com Mansour Hosni sousse_4015 25/2/1995 4
+24123456 contact@mmd.com Ben_Arfaa Mohamed monastir 4/5/1990 4
+30255412 bill@bill.com Gates Bill USA_NY 01/02/1960 3
+50123456 flan@yahoo.com flan ben_feltan 404_not_found 4/1/1940 2
+40255412 3abad@gmail.com Abd Allah Homless 01/02/1800 3
+52123456 contact@hotmail.com a5er_test Asm fr 4/5/1970 4
